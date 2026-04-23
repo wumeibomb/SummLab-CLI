@@ -7,3 +7,4 @@ npm install
   chmod +x ./indextrivia.js
       npm link
        -then the trivia command can be used.
+- note to TM: Realized while going over the code again that the constants correctq(x) are not needed.
