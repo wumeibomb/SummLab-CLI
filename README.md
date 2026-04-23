@@ -4,6 +4,6 @@
 #npm install
 - The command used to start the quiz on the CLI is 'trivia'
 - to input the command into your CLI:
-  chmod +x ./indextrivia.js
-  npm link
-  - then the trivia command can be used.
+  --chmod +x ./indextrivia.js
+  -npm link
+ then the trivia command can be used.
